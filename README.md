@@ -40,14 +40,14 @@ Accurate modeling helps governments and organizations create informed climate po
 
 ## 📁 Repository Contents
 
-| File Name                        | Description                                         |
-|----------------------------------|-----------------------------------------------------|
-| `Climate_Change_Modeling.ipynb` | Main analysis notebook with EDA, models, and plots |
-| `CO2_vs_Temperature.png`        | Scatter plot showing correlation between CO₂ and temperature |
-| `Temperature_Trends.png`        | Line plot showing rise in global temperature anomalies |
-| `Feature_Importance.png`        | Random Forest feature importance plot              |
-| `LICENSE`                       | MIT license for open-source usage                  |
-| `README.md`                     | Project overview and instructions                  |
+| File Name                                | Description                                         |
+|----------------------------------------- |-----------------------------------------------------|
+| `Climate_Change_Modeling.ipynb`          | Main analysis notebook with EDA, models, and plots |
+| `Actual_vs_Predicted Emissions.png`      | Scatter plot showing correlation between CO₂ and temperature |
+| `Temperature_Trends.png`                 | Line plot showing rise in global temperature anomalies | 
+| `Feature_Importance.png`                 | Random Forest feature importance plot              |
+| `LICENSE`                                | MIT license for open-source usage                  |
+| `README.md`                              | Project overview and instructions                  |
 
 ---
 
